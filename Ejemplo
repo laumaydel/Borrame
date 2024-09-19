@@ -1,2 +1,2 @@
-# código R
+# código R para un ejemplo
 plot(1:10)
