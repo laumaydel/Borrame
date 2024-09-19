@@ -1,2 +1,3 @@
 # código R para un ejemplo
 plot(1:10)
+3*5+6
