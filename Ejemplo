@@ -1,5 +1,7 @@
 # código R para un ejemplo
 plot(1:10)
 3*5+6
-#nuevo cambio desde git PULL
+# nuevo cambio desde git PULL
 x=rep(1,20) 
+
+#Cambio desde RStudio PUSH
